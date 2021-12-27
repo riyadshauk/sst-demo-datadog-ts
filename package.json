@@ -15,14 +15,16 @@
     ]
   },
   "devDependencies": {
-    "@tsconfig/node14": "^1.0.1",
     "@aws-cdk/assert": "1.132.0",
+    "@tsconfig/node14": "^1.0.1",
     "@types/aws-lambda": "^8.10.70",
-    "@types/node": "<15.0.0"
+    "@types/node": "<15.0.0",
+    "datadog-cdk-constructs": "^0.5.0"
   },
   "dependencies": {
+    "@aws-cdk/core": "1.132.0",
     "@serverless-stack/cli": "0.54.2",
     "@serverless-stack/resources": "0.54.2",
-    "@aws-cdk/core": "1.132.0"
+    "datadog-lambda-js": "^4.67.0"
   }
 }

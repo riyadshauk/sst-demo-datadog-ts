@@ -1,6 +1,6 @@
-# Getting Started with Serverless Stack (SST)
+# sst-demo-datadog-ts
 
-This project was bootstrapped with [Create Serverless Stack](https://docs.serverless-stack.com/packages/create-serverless-stack).
+This project was bootstrapped with [Create Serverless Stack](https://docs.serverless-stack.com/packages/create-serverless-stack) by using the following documentation for [generating an SST project with the TS template](https://docs.serverless-stack.com/installation#getting-started) and using this documentation to [integrate with Datadog as an AWS Layer](https://docs.serverless-stack.com/monitoring-your-app-in-prod#datadog). I also added in the [VS Code debugging configurations](https://docs.serverless-stack.com/debugging-with-vscode#launch-configurations) to this project.
 
 Start by installing the dependencies.
 
